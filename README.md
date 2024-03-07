@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My  name is Nitin Singh, an Artificial Intelligence and Data Science Engineer from India.</p>
+<p align="left">My  name is Nitin Singh, Artificial Intelligence and Data Science Engineer from India.</p>
 
 ###
 
@@ -44,11 +44,6 @@
   <a href="https://www.linkedin.com/in/nitin-singh-6758b4248/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/nitin-singh-6758b4248/" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
-    <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323     2.145H2.865z"/>
-    </svg>" width="52" height="40" alt="X logo"  />
-  </a>
   <a href="https://www.instagram.com/ni.3.singh?igsh=eGlrNTJmajd2aDRk" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -57,6 +52,9 @@
   </a>
   <a href="https://youtube.com/@NitinSinghCreation?si=ipFZhXw8rbZ8Epyq" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/NitinSingh333?t=p3JinE7cpVu7sq4GUjYebw&s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
