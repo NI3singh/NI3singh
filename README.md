@@ -1,4 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Uploading my Repositories Soon...</h1>
 
 ###
 
@@ -39,6 +40,11 @@
 </div>
 
 ###
+
+<h2 align="left">Let's Connect with </h2>
+
+###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nitin-singh-6758b4248/" target="_blank">
