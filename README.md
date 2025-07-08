@@ -17,6 +17,7 @@
 + Studying Artificial Intelligence since 2021
 + Current Focus: NLP, Generative AI, and Reinforcement Learning
 + Career Goal: Become an AI Research Scientist
+```diff
 
 💡 **Fun Fact:** *"In 2016, DeepMind's AlphaGo Zero achieved superhuman mastery of Go without human knowledge, defeating world champion Lee Sedol - a landmark in AI's ability to learn complex strategies from scratch."*
 
