@@ -1,94 +1,154 @@
-<!--
-**NI3singh/NI3singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# 👋 Hello, I'm Nitin Singh
 
 <div align="center">
-  <h1>👋 Hi there, I’m Nitin Singh</h1>
-  <p>AI Developer │ Data Science Engineer │ Deep Learning Enthusiast</p>
-  <p>
-    <a href="https://www.linkedin.com/in/nitinsinghr/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-your.email@example.com-c14438?logo=gmail">
-    </a>
-    <a href="https://github.com/NI3singh" target="_blank">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/NI3singh?label=Follow&style=social">
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Developer+%26+Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
----
+## 🚀 About Me
 
-## 👨‍💻 About Me
+I'm a passionate **Artificial Intelligence and Data Science Engineer** from India, dedicated to pushing the boundaries of AI and machine learning. With over 3 years of experience in the field, I specialize in developing intelligent systems that solve real-world problems.
 
-- 🎓 **Education & Journey:** Studying AI, Machine Learning & Data Science since 2021  
-- 🔭 **Currently Working On:**  
-  - 📌 Deep Learning pipelines in Computer Vision  
-  - 📌 NLP models for text classification & generation  
-- 🎯 **Career Goal:** AI Researcher driving innovations in autonomous systems  
-- 🎲 **Fun Fact:** In 2016, DeepMind’s AlphaGo Zero mastered Go **from scratch**, defeating Lee Sedol without human data.
+🎯 **Current Focus**: Deep Learning, Computer Vision, and Natural Language Processing  
+🌱 **Learning**: Advanced AI architectures and cutting-edge ML techniques  
+🎲 **Goal**: To become a leading AI Researcher and contribute to breakthrough innovations  
+📍 **Location**: India  
 
 ---
 
-## 💻 Tech Stack
+## 💼 Professional Experience
 
+- 🔬 **AI/ML Development** since 2021
+- 🧠 Specialized in **Deep Learning**, **Computer Vision**, and **NLP**
+- 📊 Experienced in **Data Science** and **Statistical Analysis**
+- 🏗️ Building scalable AI solutions and intelligent systems
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+</div>
+
+### AI/ML Frameworks & Libraries
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" title="Scikit-learn" />
+</div>
+
+### Development Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" title="PyCharm" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" title="Anaconda" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+</div>
+
+### Cloud & Deployment
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" title="Google Cloud" />
 </div>
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Link |
-| :------ | :---------- | :--- |
-| **DeepVision** | Custom CNN for image segmentation | 🔗 [GitHub](https://github.com/NI3singh/DeepVision) |
-| **TextGenAI** | Transformer-based text generator | 🔗 [GitHub](https://github.com/NI3singh/TextGenAI) |
-| **ChatBot-DS** | Rule‑based + ML chatbot framework | 🔗 [GitHub](https://github.com/NI3singh/ChatBot-DS) |
-
-> _See more on my [GitHub repositories](https://github.com/NI3singh?tab=repositories)._
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NI3singh&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=NI3singh&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NI3singh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NI3singh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NI3singh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🔥 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitinsinghr/" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Singh-blue?logo=linkedin" alt="LinkedIn">
+### 🤖 AI/ML Projects
+- **Computer Vision Applications**: Image classification, object detection, and facial recognition systems
+- **Natural Language Processing**: Sentiment analysis, text classification, and language models
+- **Deep Learning Models**: Neural networks for predictive analytics and pattern recognition
+- **Data Science Solutions**: Statistical analysis, data visualization, and predictive modeling
+
+---
+
+## 🎯 Areas of Expertise
+
+- **Machine Learning**: Supervised/Unsupervised Learning, Ensemble Methods
+- **Deep Learning**: CNNs, RNNs, Transformers, GANs
+- **Computer Vision**: Image Processing, Object Detection, Facial Recognition
+- **Natural Language Processing**: Text Analytics, Language Models, Sentiment Analysis
+- **Data Science**: Statistical Analysis, Data Visualization, Feature Engineering
+- **MLOps**: Model Deployment, Monitoring, and Scalability
+
+---
+
+## 🌟 Fun AI Fact
+
+> In 2016, DeepMind's AlphaGo Zero achieved superhuman mastery of the complex game Go, defeating world champion Lee Sedol without any prior knowledge of the game or human instruction. This breakthrough demonstrated AI's remarkable ability to learn and strategize from scratch, marking a pivotal moment in artificial intelligence history.
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nitinsinghr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/NitinSingh333" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@NitinSingh333-blue?logo=twitter" alt="Twitter">
+  <a href="https://www.instagram.com/ni.3.singh?igsh=eGlrNTJmajd2aDRk" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ni.3.singh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@ni.3.singh-purple?logo=instagram" alt="Instagram">
+  <a href="https://discord.com/channels/780066247601291285/@home" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@NitinSinghCreation" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-NitinSinghCreation-red?logo=youtube" alt="YouTube">
+  <a href="https://youtube.com/@NitinSinghCreation?si=ipFZhXw8rbZ8Epyq" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-</p>
+  <a href="https://x.com/NitinSingh333?t=p3JinE7cpVu7sq4GUjYebw&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NI3singh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/NI3singh/count.svg" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Rainbow Line" />
+  
+  **"The best way to predict the future is to create it."** - Peter Drucker
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Rainbow Line" />
 </div>
