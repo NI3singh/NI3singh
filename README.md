@@ -1,154 +1,124 @@
-# 👋 Hello, I'm Nitin Singh
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Developer+%26+Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Artificial Intelligence and Data Science Engineer** from India, dedicated to pushing the boundaries of AI and machine learning. With over 3 years of experience in the field, I specialize in developing intelligent systems that solve real-world problems.
-
-🎯 **Current Focus**: Deep Learning, Computer Vision, and Natural Language Processing  
-🌱 **Learning**: Advanced AI architectures and cutting-edge ML techniques  
-🎲 **Goal**: To become a leading AI Researcher and contribute to breakthrough innovations  
-📍 **Location**: India  
-
----
-
-## 💼 Professional Experience
-
-- 🔬 **AI/ML Development** since 2021
-- 🧠 Specialized in **Deep Learning**, **Computer Vision**, and **NLP**
-- 📊 Experienced in **Data Science** and **Statistical Analysis**
-- 🏗️ Building scalable AI solutions and intelligent systems
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-</div>
-
-### AI/ML Frameworks & Libraries
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" title="Scikit-learn" />
-</div>
-
-### Development Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" title="PyCharm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" title="Anaconda" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-</div>
-
-### Cloud & Deployment
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" title="Google Cloud" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwaHFucjE5aXJjcDRyYjRiaHhrbGI2bzRjM3E5NXVyYWowcGQ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iMm21/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### <p align="center">Hi there, I'm Nitin Singh 👋</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NI3singh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NI3singh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NI3singh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  I'm a passionate and results-driven Artificial Intelligence and Data Science Engineer from India. I have been exploring the fascinating world of AI/ML and Data Science since 2021. My goal is to become an AI Researcher and contribute to the advancement of intelligent systems.
+</p>
 
 ---
 
-## 🔥 Featured Projects
+### 🚀 About Me
 
-### 🤖 AI/ML Projects
-- **Computer Vision Applications**: Image classification, object detection, and facial recognition systems
-- **Natural Language Processing**: Sentiment analysis, text classification, and language models
-- **Deep Learning Models**: Neural networks for predictive analytics and pattern recognition
-- **Data Science Solutions**: Statistical analysis, data visualization, and predictive modeling
-
----
-
-## 🎯 Areas of Expertise
-
-- **Machine Learning**: Supervised/Unsupervised Learning, Ensemble Methods
-- **Deep Learning**: CNNs, RNNs, Transformers, GANs
-- **Computer Vision**: Image Processing, Object Detection, Facial Recognition
-- **Natural Language Processing**: Text Analytics, Language Models, Sentiment Analysis
-- **Data Science**: Statistical Analysis, Data Visualization, Feature Engineering
-- **MLOps**: Model Deployment, Monitoring, and Scalability
+* 🎓 I'm currently expanding my knowledge in Deep Learning, Computer Vision, and Natural Language Processing.
+* 👨‍💻 I enjoy solving complex problems and building intelligent applications.
+* 🎯 2024 Goals: Contribute to open-source AI projects and publish a research paper.
+* ⚡ Fun fact: The term "artificial intelligence" was coined by John McCarthy in 1956 at the Dartmouth Conference.
 
 ---
 
-## 🌟 Fun AI Fact
+### 🛠️ My Skills
 
-> In 2016, DeepMind's AlphaGo Zero achieved superhuman mastery of the complex game Go, defeating world champion Lee Sedol without any prior knowledge of the game or human instruction. This breakthrough demonstrated AI's remarkable ability to learn and strategize from scratch, marking a pivotal moment in artificial intelligence history.
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nitinsinghr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/ni.3.singh?igsh=eGlrNTJmajd2aDRk" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://discord.com/channels/780066247601291285/@home" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
-  <a href="https://youtube.com/@NitinSinghCreation?si=ipFZhXw8rbZ8Epyq" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
-  <a href="https://x.com/NitinSingh333?t=p3JinE7cpVu7sq4GUjYebw&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
-</div>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d852637/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
+  </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 📈 Profile Views
+### 🏆 My Projects
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NI3singh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<p align="center">
+  Here are some of the projects I'm proud of. You can find more on my GitHub profile.
+</p>
+
+<details>
+  <summary><b>Project 1: Awesome AI Project</b></summary>
+  <br>
+  <p>
+    <b>Description:</b> This is a brief description of your project. Talk about the technologies used, the problem it solves, and what you learned.
+    <br><br>
+    <b>Technologies Used:</b> Python, TensorFlow, Scikit-learn
+    <br>
+    <a href="your-repo-link"><b>View on GitHub</b></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>Project 2: Another Cool Project</b></summary>
+  <br>
+  <p>
+    <b>Description:</b> This is another great project. Explain what makes it special.
+    <br><br>
+    <b>Technologies Used:</b> PyTorch, OpenCV, Flask
+    <br>
+    <a href="your-repo-link"><b>View on GitHub</b></a>
+  </p>
+</details>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NI3singh&show_icons=true&theme=radical" alt="Nitin's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NI3singh&theme=dark" alt="Nitin's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NI3singh&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin-singh-6758b4248/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/NitinSingh333?t=p3JinE7cpVu7sq4GUjYebw&s=09">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/ni.3.singh?igsh=eGlrNTJmajd2aDRk">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Rainbow Line" />
-  
-  **"The best way to predict the future is to create it."** - Peter Drucker
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Rainbow Line" />
+  <img src="https://profile-counter.glitch.me/NI3singh/count.svg?"  />
 </div>
