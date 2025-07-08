@@ -109,12 +109,6 @@ I'm a passionate **Artificial Intelligence and Data Science Engineer** from Indi
 
 ---
 
-## 🌟 Fun AI Fact
-
-> In 2016, DeepMind's AlphaGo Zero achieved superhuman mastery of the complex game Go, defeating world champion Lee Sedol without any prior knowledge of the game or human instruction. This breakthrough demonstrated AI's remarkable ability to learn and strategize from scratch, marking a pivotal moment in artificial intelligence history.
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
