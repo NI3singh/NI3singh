@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Artificial Intelligence and Data Science Engineer** from India, dedicated to pushing the boundaries of AI and machine learning. With over 3 years of experience in the field, I specialize in developing intelligent systems that solve real-world problems.
+I'm a passionate **Artificial Intelligence and Data Science Engineer** from India, dedicated to pushing the boundaries of AI and machine learning. With 1+ years of experience in the field, I specialize in developing intelligent systems that solve real-world problems.
 
 🎯 **Current Focus**: Deep Learning, Computer Vision, and Natural Language Processing  
 🌱 **Learning**: Advanced AI architectures and cutting-edge ML techniques  
