@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nitin Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Developer+%26+Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Developer+%26+Data+Analyst;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Data+Science+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
