@@ -78,8 +78,7 @@ I'm a passionate **Artificial Intelligence and Data Science Engineer** from Indi
   <img src="https://github-readme-stats.vercel.app/api?username=NI3singh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NI3singh&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NI3singh&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NI3singh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
