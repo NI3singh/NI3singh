@@ -79,7 +79,7 @@ I'm a passionate **Artificial Intelligence and Data Science Engineer** from Indi
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NI3singh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NI3singh&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
