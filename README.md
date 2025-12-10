@@ -125,9 +125,10 @@ I'm a passionate **Artificial Intelligence and Data Science Engineer** from Indi
   <a href="https://youtube.com/@NitinSinghCreation?si=ipFZhXw8rbZ8Epyq" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://x.com/NitinSingh333?t=p3JinE7cpVu7sq4GUjYebw&s=09" target="_blank">
+  <!-- <a href="https://x.com/NitinSingh333?t=p3JinE7cpVu7sq4GUjYebw&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  </a> -->
+  <a href="https://x.com/NitinSingh333?t=p3JinE7cpVu7sq4GUjYebw&s=09" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
 </div>
 
 ---
