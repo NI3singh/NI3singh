@@ -73,7 +73,7 @@ BTech in Artificial Intelligence & Data Science · 2 years as an AI Engineer. I 
 </div>
 
 ### LLMs & Agent Tooling
-`LangGraph` `OpenAI API` `Anthropic API` `Gemini API` `DeepSeek` `Llama 3.x` `Qwen` `Hugging Face` `Pathway`
+`LangGraph` `OpenAI API` `Anthropic API` `Gemini API` `DeepSeek` `Llama 3.x` `Qwen` `Hugging Face` `vector database`
 
 ### Generative AI
 `Stable Diffusion` `FLUX.1-dev` `Wan2.2` `LoRA · Kohya_ss` `CatVTON` `CLIP` `AMD ROCm`
