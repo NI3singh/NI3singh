@@ -110,7 +110,7 @@ BTech in Artificial Intelligence & Data Science · 2 years as an AI Engineer. I 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Auto-Doc**](https://marketplace.visualstudio.com/items?itemName=ni3dev.auto-document) [![VS Code](https://img.shields.io/visual-studio-marketplace/v/ni3dev.auto-document?color=green&label=v)](https://marketplace.visualstudio.com/items?itemName=ni3dev.auto-document) | VS Code extension that logs every file save as a timestamped Markdown diff with line numbers. Published on VS Code Marketplace (v1.0.0). | TypeScript, VS Code API |
+| [**interactive-preview-skill**](https://github.com/NI3singh/interactive-preview-skill) | A Claude Code skill that turns any React/Next.js codebase into an interactive, theme-matched "try it before you sign up" demo — a guided product tour on mock data, auto-generated from your own UI. Leaks no backend. | React, Nextjs, Tailwindcss |
 | [**Support Finder**](https://github.com/NI3singh/support-finder-extension) | MV3 Chrome extension with a four-layer deterministic pipeline: DOM scan → same-domain path probing → schema.org extraction → confidence scoring. Returns ranked support contacts with explanations. No AI; no fabrication. | TypeScript, React, MV3 |
 | [**android-compose-design**](https://github.com/NI3singh/android-compose-design-skill) | Agent skill for Claude Code. Guides AI to produce distinctive Jetpack Compose UI — intentional color, type hierarchy, shape language, and motion — instead of Material 3 defaults. | Jetpack Compose, Kotlin |
 
