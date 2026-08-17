@@ -22,7 +22,7 @@ BTech in Artificial Intelligence & Data Science · 2 years as an AI Engineer. I 
 
 ---
 
-## Tech Stack
+## AI Engineering Skill Map
 
 ### Languages
 <div align="left">
@@ -73,10 +73,10 @@ BTech in Artificial Intelligence & Data Science · 2 years as an AI Engineer. I 
 </div>
 
 ### LLMs & Agent Tooling
-`LangGraph` `OpenAI API` `Anthropic API` `Gemini API` `DeepSeek` `Llama 3.x` `Qwen` `Hugging Face` `vector database`
+`agent orchestration` `planner-executor patterns` `multi-agent debate` `tool/function calling` `RAG evaluation` `query rewriting` `hybrid retrieval` `embedding search` `evidence attribution` `structured outputs` `guardrails` `prompt routing` `memory design` `human-in-the-loop review` `LLM observability` `self-scoring agents`
 
 ### Generative AI
-`Stable Diffusion` `FLUX.1-dev` `Wan2.2` `LoRA · Kohya_ss` `CatVTON` `CLIP` `AMD ROCm`
+`parameter-efficient fine-tuning` `LoRA/adapter training` `reward modeling` `preference optimization` `diffusion pipelines` `text-to-image workflows` `image-to-video workflows` `identity preservation` `virtual try-on` `face analysis` `vision-language classification` `dataset curation` `inference optimization` `GPU/ROCm workflows`
 
 ---
 
@@ -84,51 +84,57 @@ BTech in Artificial Intelligence & Data Science · 2 years as an AI Engineer. I 
 
 ### 🤖 Agentic & LLM Systems
 
-| Project | What it does | Stack |
+| Project | What it does | AI skills |
 |---|---|---|
-| [**Multi-Agent RAG**](https://github.com/NI3singh/IIT-Kharagpur-Data-Science-Hackathon-Submission) | Three-agent literary consistency pipeline: Llama 3.3-70B decomposes claims into atomic facts, Qwen3-Embedding-8B retrieves evidence from a Pathway vector store, DeepSeek-R1 judges contradictions. Structured Python object passing preserves similarity scores and claim provenance across agents. 98.3% success rate on 60 test cases. *IIT Kharagpur Hackathon* | Llama 3.3, DeepSeek-R1, Qwen3, Pathway |
-| [**BTC-Forecaster**](https://github.com/NI3singh/BTC-forecaster) | Fork of TradingAgents repurposed for intraday BTC forecasting. Multi-agent pipeline: technical + news + sentiment analysts → bull/bear debate → trader → risk → final forecast. Emits 1h/4h price predictions with a self-scoring track record logged against realized prices. | LangGraph, Python, Yahoo Finance |
-| [**AMD AIPL**](https://github.com/NI3singh/AMD-AI-Premiere-League-Hackathon) | Fine-tuned Qwen3-4B using SFT + GRPO for a 1v1 Q-agent vs A-agent tournament. Custom reward function; self-play loop where question and answer models iteratively improve each other. *AMD Hackathon at IIT Bombay* | Qwen3-4B, PyTorch, GRPO |
+| [**Multi-Agent RAG**](https://github.com/NI3singh/IIT-Kharagpur-Data-Science-Hackathon-Submission) | Three-agent literary consistency pipeline: claim decomposition → evidence retrieval → contradiction judging. Structured Python object passing preserves similarity scores and claim provenance across agents. 98.3% success rate on 60 test cases. *IIT Kharagpur Hackathon* | Multi-agent orchestration, atomic fact decomposition, semantic retrieval, contradiction detection, evidence provenance, RAG evaluation |
+| [**BTC-Forecaster**](https://github.com/NI3singh/BTC-forecaster) | Fork of TradingAgents repurposed for intraday BTC forecasting. Multi-agent pipeline: technical + news + sentiment analysts → bull/bear debate → trader → risk → final forecast. Emits 1h/4h predictions with a self-scoring track record logged against realized prices. | Agentic market research, debate-based reasoning, time-series signal fusion, sentiment aggregation, risk-aware decisioning, forecast backtesting |
+| [**AMD AIPL**](https://github.com/NI3singh/AMD-AI-Premiere-League-Hackathon) | Fine-tuned an LLM with SFT + GRPO for a 1v1 Q-agent vs A-agent tournament. Custom reward function; self-play loop where question and answer models iteratively improve each other. *AMD Hackathon at IIT Bombay* | Supervised fine-tuning, GRPO, reward shaping, self-play, agent evaluation, adversarial QA |
 
 ### 🎨 Generative AI & Vision
 
-| Project | What it does | Stack |
+| Project | What it does | AI skills |
 |---|---|---|
-| [**AI-Avtaar**](https://github.com/NI3singh/AI-Avtaar) | End-to-end character pipeline: upload photos → automated LoRA training → SDXL image generation → virtual clothing try-on. Four isolated Python environments orchestrated through a single Streamlit UI. | Kohya_ss, FLUX.1 / A1111, CatVTON, Streamlit |
-| [**AI Video Creator**](https://github.com/NI3singh/ARON) | Three-stage generation pipeline: Llama 3.1-8B writes a storyboard → FLUX.1-dev renders per-scene images → Wan2.2-T2V animates them. Gradio tabbed interface. Tested on AMD MI300X with ROCm. | Llama 3.1, FLUX.1-dev, Wan2.2, Gradio, ROCm |
-| [**Gender Detection API**](https://github.com/NI3singh/Gender-detection) | FastAPI endpoint using RetinaFace for face detection and CLIP for gender classification. Handles multiple faces, non-human images, and mismatches as distinct typed error responses. | FastAPI, CLIP, RetinaFace, PyTorch |
+| [**AI-Avtaar**](https://github.com/NI3singh/AI-Avtaar) | End-to-end character pipeline: upload photos → automated LoRA training → image generation → virtual clothing try-on. Four isolated Python environments orchestrated through a single Streamlit UI. | Identity-preserving generation, LoRA training, dataset preprocessing, diffusion workflow orchestration, virtual try-on, UX for model pipelines |
+| [**AI Video Creator**](https://github.com/NI3singh/ARON) | Three-stage generation pipeline: storyboard planning → per-scene image generation → text-to-video animation. Gradio tabbed interface. Tested on AMD MI300X with ROCm. | Story-to-scene planning, prompt engineering, diffusion chaining, image-to-video orchestration, GPU inference, creative AI tooling |
+| [**Gender Detection API**](https://github.com/NI3singh/Gender-detection) | FastAPI endpoint for face detection and vision-language gender classification. Handles multiple faces, non-human images, and mismatches as distinct typed error responses. | Computer vision inference, face detection, zero-shot image classification, typed error design, API deployment |
 
 ### 🏗️ Full-Stack AI Products
 
-| Project | What it does | Stack |
+| Project | What it does | AI skills |
 |---|---|---|
-| [**ResumeTeX**](https://github.com/NI3singh/AI-Resume-Updater) | Browser-based LaTeX resume builder: manual form, AI import from PDF/DOCX (extract → parse → verify pipeline), AI tailoring to job descriptions. Deterministic anti-fabrication guard restores all original facts post-AI. Deployed on Render. | Next.js 14, FastAPI, PostgreSQL, Nebius LLM |
-| [**Stock News Summarizer**](https://github.com/NI3singh/stock-news-summarizer) | Scrapes TradingView, Finviz, and Polygon; Gemini Pro selects top articles and writes <500-word summaries with 7-day "what changed today" diffs. SQLite history, daily refresh at 8 AM IST. Free-tier deployed on Render. | Flask, Gemini Pro, SQLite |
-| [**Student Performance Analysis**](https://github.com/NI3singh/Student-Performance-Analysis) | CSV upload → K-Means / Agglomerative clustering → per-student performance dashboard with trend charts, subject breakdowns, class comparisons, and Excel export. | React, Flask, Scikit-learn, MUI |
+| [**ResumeTeX**](https://github.com/NI3singh/AI-Resume-Updater) | Browser-based LaTeX resume builder: manual form, AI import from PDF/DOCX (extract → parse → verify pipeline), AI tailoring to job descriptions. Deterministic anti-fabrication guard restores all original facts post-AI. Deployed on Render. | Document AI, information extraction, structured parsing, factuality guardrails, AI-assisted rewriting, production full-stack AI |
+| [**Stock News Summarizer**](https://github.com/NI3singh/stock-news-summarizer) | Scrapes market-news sources; an LLM selects top articles and writes sub-500-word summaries with 7-day "what changed today" diffs. SQLite history, daily refresh at 8 AM IST. Free-tier deployed on Render. | News ranking, abstractive summarization, temporal diffing, scheduled AI workflows, retrieval over history |
+| [**Student Performance Analysis**](https://github.com/NI3singh/Student-Performance-Analysis) | CSV upload → K-Means / Agglomerative clustering → per-student performance dashboard with trend charts, subject breakdowns, class comparisons, and Excel export. | Unsupervised learning, educational analytics, feature preprocessing, cluster interpretation, ML dashboards |
 
 ### 🛠️ Tooling & Extensions
 
-| Project | What it does | Stack |
+| Project | What it does | AI skills |
 |---|---|---|
-| [**interactive-preview-skill**](https://github.com/NI3singh/interactive-preview-skill) | A Claude Code skill that turns any React/Next.js codebase into an interactive, theme-matched "try it before you sign up" demo a guided product tour on mock data, auto-generated from your own UI. Leaks no backend. | React, Nextjs, Tailwindcss |
-| [**Support Finder**](https://github.com/NI3singh/support-finder-extension) | MV3 Chrome extension with a four-layer deterministic pipeline: DOM scan → same-domain path probing → schema.org extraction → confidence scoring. Returns ranked support contacts with explanations. No AI; no fabrication. | TypeScript, React, MV3 |
-| [**android-compose-design**](https://github.com/NI3singh/android-compose-design-skill) | Agent skill for Claude Code. Guides AI to produce distinctive Jetpack Compose UI intentional color, type hierarchy, shape language, and motion instead of Material 3 defaults. | Jetpack Compose, Kotlin |
+| [**interactive-preview-skill**](https://github.com/NI3singh/interactive-preview-skill) | Agent skill that turns React/Next.js codebases into interactive, theme-matched "try it before you sign up" demos with guided product tours on mock data. Leaks no backend. | Agent instruction design, codebase analysis, UI generation, safe mock-data workflows, developer tooling |
+| [**Support Finder**](https://github.com/NI3singh/support-finder-extension) | MV3 Chrome extension with a four-layer deterministic pipeline: DOM scan → same-domain path probing → schema.org extraction → confidence scoring. Returns ranked support contacts with explanations. No AI; no fabrication. | Heuristic extraction, confidence scoring, explainable ranking, deterministic information retrieval, browser automation |
+| [**android-compose-design**](https://github.com/NI3singh/android-compose-design-skill) | Agent skill for mobile UI generation. Guides AI to produce distinctive Jetpack Compose UI with intentional color, type hierarchy, shape language, and motion instead of Material 3 defaults. | Agent prompt architecture, design-system reasoning, mobile UI generation, style critique, creative coding guidance |
 
 ### 📊 Data & Financial Analysis
 
-| Project | What it does | Stack |
+| Project | What it does | AI skills |
 |---|---|---|
-| [**Solana Price Analysis**](https://github.com/NI3singh/Solana-Data-Analysis) | OHLCV data (2021–2024), 44-column feature set via the `ta` library, ML price prediction model, and live Binance price dashboard. | Python, Streamlit, Binance API |
-| [**Rossmann Retail Analysis**](https://github.com/NI3singh/Snowflake-Project) | 1M+ row sales dataset: cleaning, feature engineering, EDA on Snowflake. Quantified 81.5% sales uplift from promotional periods. | Snowflake, SQL |
-| [**Time Series Forecasting**](https://github.com/NI3singh/Time-Series-Model-Performance-Comparison) | Four-framework side-by-side: LSTM on temperature data (TF), airline passengers (PyTorch), ACGL stock SARIMAX (Statsmodels), MSFT stock LSTM (Keras). Flask web interface for the SARIMAX model. | TF, PyTorch, Statsmodels, Keras |
+| [**Solana Price Analysis**](https://github.com/NI3singh/Solana-Data-Analysis) | OHLCV data (2021–2024), 44-column technical-indicator feature set, ML price prediction model, and live Binance price dashboard. | Financial feature engineering, technical indicators, price prediction, model evaluation, live analytics |
+| [**Rossmann Retail Analysis**](https://github.com/NI3singh/Snowflake-Project) | 1M+ row sales dataset: cleaning, feature engineering, EDA on Snowflake. Quantified 81.5% sales uplift from promotional periods. | Large-scale EDA, feature engineering, SQL analytics, retail forecasting signals, business insight extraction |
+| [**Time Series Forecasting**](https://github.com/NI3singh/Time-Series-Model-Performance-Comparison) | Four-framework side-by-side: LSTM on temperature data, airline passengers, stock SARIMAX, and stock LSTM. Flask web interface for the SARIMAX model. | Sequence modeling, SARIMAX forecasting, comparative model evaluation, regression metrics, ML web serving |
 
 ---
 
-## GitHub Stats
+## GitHub Activity
+
+Dynamic GitHub stats cards were removed because third-party stat image services can fail or rate-limit and show broken images on the profile. For the most reliable view, use the live GitHub tabs below:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NI3singh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NI3singh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/NI3singh?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-Explore%20AI%20Projects-2196F3?style=for-the-badge&logo=github" alt="Explore public repositories" />
+  </a>
+  <a href="https://github.com/NI3singh?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/Contributions-Live%20Graph-4CAF50?style=for-the-badge&logo=github" alt="View live contribution graph" />
+  </a>
 </div>
 
 ---
