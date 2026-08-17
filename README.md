@@ -124,21 +124,6 @@ BTech in Artificial Intelligence & Data Science · 2 years as an AI Engineer. I 
 
 ---
 
-## GitHub Activity
-
-Dynamic GitHub stats cards were removed because third-party stat image services can fail or rate-limit and show broken images on the profile. For the most reliable view, use the live GitHub tabs below:
-
-<div align="center">
-  <a href="https://github.com/NI3singh?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-Explore%20AI%20Projects-2196F3?style=for-the-badge&logo=github" alt="Explore public repositories" />
-  </a>
-  <a href="https://github.com/NI3singh?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img src="https://img.shields.io/badge/Contributions-Live%20Graph-4CAF50?style=for-the-badge&logo=github" alt="View live contribution graph" />
-  </a>
-</div>
-
----
-
 ## Connect
 
 <div align="center">
