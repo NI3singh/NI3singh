@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-labelledby="t d">
+  <title id="t">Multi-Agent RAG pipeline</title>
+  <desc id="d">A claim flows through three agents: claim decomposition, evidence retrieval and contradiction judging, producing a consistency verdict.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#57606a"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="208" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
+    <text x="500" y="30" font-size="15" font-weight="600" fill="#24292f">Multi-Agent RAG · literary consistency pipeline</text>
+
+    <!-- Nodes -->
+    <rect x="16" y="52" width="100" height="76" rx="10" fill="#ffffff" stroke="#57606a" stroke-width="1.5"/>
+    <text x="66" y="86" font-size="13" font-weight="600" fill="#24292f">Input</text>
+    <text x="66" y="106" font-size="13" fill="#24292f">Claim</text>
+
+    <rect x="166" y="52" width="170" height="76" rx="10" fill="#ddf4ff" stroke="#2196F3" stroke-width="1.5"/>
+    <text x="251" y="86" font-size="13" font-weight="600" fill="#0a3069">Agent 1</text>
+    <text x="251" y="106" font-size="13" fill="#0a3069">Claim Decomposition</text>
+
+    <rect x="406" y="52" width="170" height="76" rx="10" fill="#ddf4ff" stroke="#2196F3" stroke-width="1.5"/>
+    <text x="491" y="86" font-size="13" font-weight="600" fill="#0a3069">Agent 2</text>
+    <text x="491" y="106" font-size="13" fill="#0a3069">Evidence Retrieval</text>
+
+    <rect x="646" y="52" width="170" height="76" rx="10" fill="#ddf4ff" stroke="#2196F3" stroke-width="1.5"/>
+    <text x="731" y="86" font-size="13" font-weight="600" fill="#0a3069">Agent 3</text>
+    <text x="731" y="106" font-size="13" fill="#0a3069">Contradiction Judge</text>
+
+    <rect x="866" y="52" width="118" height="76" rx="10" fill="#dafbe1" stroke="#2ea44f" stroke-width="1.5"/>
+    <text x="925" y="86" font-size="13" font-weight="600" fill="#1a7f37">Output</text>
+    <text x="925" y="106" font-size="13" fill="#1a7f37">Verdict</text>
+
+    <!-- Arrows -->
+    <g stroke="#57606a" stroke-width="1.8" fill="none" marker-end="url(#arrow)">
+      <line x1="118" y1="90" x2="164" y2="90"/>
+      <line x1="338" y1="90" x2="404" y2="90"/>
+      <line x1="578" y1="90" x2="644" y2="90"/>
+      <line x1="818" y1="90" x2="864" y2="90"/>
+    </g>
+
+    <!-- Hand-off labels -->
+    <g stroke="#8c959f" stroke-width="1" stroke-dasharray="3 3">
+      <line x1="371" y1="98" x2="371" y2="150"/>
+      <line x1="611" y1="98" x2="611" y2="150"/>
+    </g>
+    <text x="371" y="168" font-size="12" fill="#57606a">atomic facts</text>
+    <text x="611" y="168" font-size="12" fill="#57606a">evidence + similarity scores + claim provenance</text>
+
+    <text x="500" y="197" font-size="12" font-weight="600" fill="#1a7f37">98.3% success rate on 60 test cases</text>
+  </g>
+</svg>
