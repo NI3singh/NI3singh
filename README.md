@@ -1,8 +1,4 @@
-<div align="center">
-
-# Nitin Singh
-
-### AI Engineer · LLM & Multi-Agent Systems · Generative AI
+<div align="center"> <img src="name-banner.svg" alt="Nitin Singh — AI Engineer · LLM & Multi-Agent Systems · Generative AI" width="700" />
 
 <a href="https://github.com/NI3singh">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2196F3&center=true&vCenter=true&width=620&height=40&lines=AI+Engineer+%7C+2+Years+Experience;Machine+Learning+Engineer;Multi-Agent+%26+LLM+Systems+Builder;Generative+AI+%26+Diffusion+Models;Full-Stack+AI+Product+Developer;Open+to+AI+%2F+ML+Engineer+Roles" alt="Typing SVG" />
