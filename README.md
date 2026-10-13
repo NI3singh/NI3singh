@@ -189,7 +189,7 @@ Browser-based LaTeX resume builder with AI import from PDF/DOCX and AI tailoring
 ### How the Multi-Agent RAG pipeline works
 
 <div align="center">
-  <img src="assets/multi-agent-rag.svg" alt="Multi-Agent RAG pipeline: claim, then claim decomposition, evidence retrieval and contradiction judging agents, then a consistency verdict" width="100%" />
+  <img src="multi-agent-rag.svg" alt="Multi-Agent RAG pipeline: claim, then claim decomposition, evidence retrieval and contradiction judging agents, then a consistency verdict" width="100%" />
 </div>
 
 ---
